@@ -1,5 +1,5 @@
 # Authentication_fromScratch
-Repository to create Authication from Scratch. Made using Express, Mongoose(Mongo), Sessions and Cookies.
+Repository to create Authentication from Scratch. Made using Express, Mongoose(Mongo), Sessions and Cookies.
 - I have not setup buttons to directly move to other pages of the site, to test the app you need to type the routes into the url bar.
 # To use this repository 
 - Clone the repository or Download the zip file
