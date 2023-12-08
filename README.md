@@ -2,7 +2,7 @@
 Repository to create Authication from Scratch. Made using Express, Mongoose(Mongo), Sessions and Cookies.
 - I have not setup buttons to directly move to other pages of the site, to test the app you need to type the routes into the url bar.
 # To use this repository 
-- First Clone the repository or Download the zip file
+- Clone the repository or Download the zip file
 - Installing dependencies (Tech Stack) like Node, Express, Mongo, Mongoose
 - Use npm i to install packages used in the code.
 - Now run using node index.js and your app is served on port localhost:3000
