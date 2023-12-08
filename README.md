@@ -14,9 +14,9 @@ This is a simple Node.js application demonstrating basic authentication using Ex
 ## Features
 - User Registration: Users can register by providing a unique username and password.
 - User Login: Registered users can log in using their credentials.
-- Session Management: Utilizes express-session for user session management.
-- Password Hashing: Uses bcrypt to securely hash and store user passwords.
-- Protected Routes: Access to certain routes (/secret_Route and /anotherSecret) is restricted to authenticated users.
+- Session Management: Utilizes session for user session management.
+- Password Hashing: securely hash and store user passwords in database.
+- Protected Routes: Access to certain routes (/secret1 and /secret2) is restricted to authenticated users.
 
 ## Routes 
 - /: (Homepage) Displays a welcome message.
