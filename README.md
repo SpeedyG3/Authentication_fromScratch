@@ -22,8 +22,8 @@ This is a simple Node.js application demonstrating basic authentication using Ex
 - /: (Homepage) Displays a welcome message.
 - /register: Allows users to register by providing a username and password.
 - /login: Provides a login form for users to enter their credentials.
-- /secret_Route: A protected route accessible only to authenticated users.
-- /anotherSecret: Another protected route with additional content for authenticated users.
+- /secret1: A protected route accessible only to authenticated users.
+- /secret2: Another protected route with additional content for authenticated users.
 
 ## Usage
 - Visit the homepage (/) to see the welcome message.
@@ -34,6 +34,6 @@ This is a simple Node.js application demonstrating basic authentication using Ex
 
 ### Important Notes
 Make sure to have MongoDB running locally on port 27017 or update the connection string in index.js accordingly.
-The app uses a simple session secret for demonstration purposes. In a production environment, a more secure session configuration is recommended.
+The app uses a simple session secret for demonstration purposes and This demo does not include comprehensive error handling. In a production environment, a more secure session configuration is recommended.
 This is a basic authentication demo and should not be considered secure for production use without additional security measures.
 Feel free to explore and modify the code to suit your needs!
